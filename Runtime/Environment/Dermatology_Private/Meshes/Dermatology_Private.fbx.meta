@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: d4db2580346e96d4cbfe813d6d24bb9e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_heater-white
+    second: {fileID: 2100000, guid: 126de0f9a8c40f8429a43403035c4973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_note-box
+    second: {fileID: 2100000, guid: 436839980cc3b0c41806602111765d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_note-box-paper
+    second: {fileID: 2100000, guid: c37c5a3b9e1120b4d95221354e8e37e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi-picture-frame
+    second: {fileID: 2100000, guid: 0b17d8eba03e9274fbd51a9587c91a7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_ballpoint-pen_1
+    second: {fileID: 2100000, guid: 4d1c5d2f285d28b45934c9c03018eb5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_ballpoint-pen_2
+    second: {fileID: 2100000, guid: bcb57a587ce4aae43ac13485d836c754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_ballpoint-pen_3
+    second: {fileID: 2100000, guid: 142ca673877eaca42bb6c033b33e1456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_bed-role
+    second: {fileID: 2100000, guid: 95f493d50790ff946b062fc019d53197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_binder
+    second: {fileID: 2100000, guid: 1ada026dd6952f44489434f5373bacae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_books
+    second: {fileID: 2100000, guid: a7a19e0ff9a2af04ab63668e7b483c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_business-cards
+    second: {fileID: 2100000, guid: a22ab8971bfaff44abf8f17e7b8be925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_calendar
+    second: {fileID: 2100000, guid: a71ff3b0bebf24145bd7059454f3c4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_certificate_form
+    second: {fileID: 2100000, guid: 6766253b70ad89c45b5766bd151c685a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_chair
+    second: {fileID: 2100000, guid: be15da028433f1d4a97bdde4089f1576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_clipboard
+    second: {fileID: 2100000, guid: 3273d3f8eb5e56b4e9b9bd0dd520cfc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_cloakhanger-metall
+    second: {fileID: 2100000, guid: 50740309505d53540907738f947ae313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_clock-black
+    second: {fileID: 2100000, guid: 243ab4d48a6af784fba2b10d3336042d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_clock-dial
+    second: {fileID: 2100000, guid: 173eb26c689d79a4fb9eb577c1910f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_clock-metall-matte
+    second: {fileID: 2100000, guid: 4b73eda0f10c12a4caa98b917685b8dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_curtain-fabric
+    second: {fileID: 2100000, guid: da244b7641314c04a8055bd03aa3dbc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_desk-cupboard-dark
+    second: {fileID: 2100000, guid: 6ef6a3cf50839f548a4ea0a852648f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_disinfection-bottle
+    second: {fileID: 2100000, guid: b4c8e93df97fdb2409d587f7e09a94e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_disinfection-bottle-label
+    second: {fileID: 2100000, guid: 4c73f0f6a3484d648986d0c9df16701f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_dresser
+    second: {fileID: 2100000, guid: 244937d4be7726a4a856e3dcfb2a2b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_exa-ceilling-dermatology
+    second: {fileID: 2100000, guid: f85426c8a955c6446a9134d92ce9d0e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_file-folder
+    second: {fileID: 2100000, guid: fd05ee676ffb33340bdab7d10337bdd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_file-folder-metall
+    second: {fileID: 2100000, guid: c32439bc60fd58a4babdd0e2c03c7290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_file-folder-paper
+    second: {fileID: 2100000, guid: d0f7c57bbad3f654d914f4374c73e937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_file-folder-spinelabel
+    second: {fileID: 2100000, guid: 6a96b14a5c2f55149ac4fbbf884ff8d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_flatscreen-display
+    second: {fileID: 2100000, guid: 32483713a1b3e0d4fa838aedce9610dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_floor-lamp
+    second: {fileID: 2100000, guid: ec8f4704fd447e940be805d0ac836755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_floor-lamp-bulb
+    second: {fileID: 2100000, guid: 4e918386e865031438c095f8236f09a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_journal
+    second: {fileID: 2100000, guid: 3287678b19f98ee4486d8795025d7c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_keyboard
+    second: {fileID: 2100000, guid: 4add790466919a241a86fdaeab9f6ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_keyboard-keys
+    second: {fileID: 2100000, guid: 2dc26c6877804934e9b47406241d9316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_keyboard.001
+    second: {fileID: 2100000, guid: a33d0048207649b46a071ef55012e3f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_kugelschreiber.001
+    second: {fileID: 2100000, guid: 72044c9e73b0dd943a8449306d124e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_leather
+    second: {fileID: 2100000, guid: 81044fcb09f1bd146be86ca123657fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_letter-holder_01
+    second: {fileID: 2100000, guid: 42ebb68e7cad4eb4fa2a33d918979c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_letter-holder_02
+    second: {fileID: 2100000, guid: 66cad4138a779f24998f2bd3f671254a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_letter-window
+    second: {fileID: 2100000, guid: a35f5fcdbe4bc824f8c05cfb67d3dccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_letter_01
+    second: {fileID: 2100000, guid: 3b7ace046267be34ba67eeef77511bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_letter_02
+    second: {fileID: 2100000, guid: 370e4d0aa973e2344b6c0aa0a04a8c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_mauspad
+    second: {fileID: 2100000, guid: 153fd1e95b8721d4894fa81ef2bfac7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_meditrain-logo-green
+    second: {fileID: 2100000, guid: 58d3459e361bd5547873629a4a73d8b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_meditrain-logo-grey
+    second: {fileID: 2100000, guid: 6719c812f35606942b78e812b38abb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_meditrain-logo-led
+    second: {fileID: 2100000, guid: 9c89a5f329803cb4e93c9c5fa73d95c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_monitor-stand
+    second: {fileID: 2100000, guid: 3c404e8e8c5bb0f4aafe63192c33eb3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_monitor_01
+    second: {fileID: 2100000, guid: 1b4110f0daadcc842a073f676bb1f101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_monitor_02
+    second: {fileID: 2100000, guid: 39288fbc89d3be748b0300c44544bb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_mouse
+    second: {fileID: 2100000, guid: d85e420e45853ee4dab0f8518b2ad52a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_mouse-cabel
+    second: {fileID: 2100000, guid: b98e04600ded71f44a31b40f70bd0044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_mouse-wheel
+    second: {fileID: 2100000, guid: 4bf24fa92e5be4243b866f3591795f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_note-box-paper
+    second: {fileID: 2100000, guid: 97b625abf3981234fa7a2a3dc2b9519e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair
+    second: {fileID: 2100000, guid: 537b551b41f34c141aaf536c93edd105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-castor-middle
+    second: {fileID: 2100000, guid: 5793c2f561550c44fa99335d35556dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-castor-outter
+    second: {fileID: 2100000, guid: 1be2efdbdb34fbe4bb91382cd55a1e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-castor-outter-middle
+    second: {fileID: 2100000, guid: a43321ae4fa1d214aa396bcc5540208b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-fabric
+    second: {fileID: 2100000, guid: a1e0483bab7ddde4b942633edc9d1637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-metall
+    second: {fileID: 2100000, guid: 93621f194a2dfe04a900843f97d43ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-plastic
+    second: {fileID: 2100000, guid: d86cd839bea81ce468caa759601196ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair-pressure-spring-metall
+    second: {fileID: 2100000, guid: 7d28a5132b8cbf0419ed6f91f6d31259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair_03
+    second: {fileID: 2100000, guid: 02504403e0ddfa34881f4e2faed1bff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_office-chair_04
+    second: {fileID: 2100000, guid: 11665c1be6bd9a745a20ba30e1dc21e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_paper-dispencer-case
+    second: {fileID: 2100000, guid: 9e8ce0260c048244a9ece43e33615396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_paper-dispencer-screw
+    second: {fileID: 2100000, guid: a6e178fbbacff0d48bc8c60c1103d022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_paper-dispencer-towel
+    second: {fileID: 2100000, guid: 5950fd0584e546446944b8c15dd6e383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pc
+    second: {fileID: 2100000, guid: 2ca8bb51b66f7564fa345b669a458f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pc-button
+    second: {fileID: 2100000, guid: 2b34385140a2b4749af5361ca612f513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pc-fan
+    second: {fileID: 2100000, guid: 06fbc9f76e63be64f8204a3a54f690c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pc-metall
+    second: {fileID: 2100000, guid: 6424c9e028cb8734ead41f65a21421ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pen
+    second: {fileID: 2100000, guid: 0099b8bf4a6e9324caaec2f4132929b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pen-holder
+    second: {fileID: 2100000, guid: f821370c08b58684aa446ea666194268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pen-lead
+    second: {fileID: 2100000, guid: bc3649ff686829745911a5e1f6bfe84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pen-silver
+    second: {fileID: 2100000, guid: dfd404e78958bfd4e98d4d328028e8c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pen-wood
+    second: {fileID: 2100000, guid: 2ac5a8bfadcf44541b8bba6422b6ba0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_phone
+    second: {fileID: 2100000, guid: 7684a849f7219924593c360b2eefde24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_phone-buttons
+    second: {fileID: 2100000, guid: fa3fd7eae3f2f754aa3831f964b78e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_phone-cabel
+    second: {fileID: 2100000, guid: 43b6211fe78714f4db71196da921bff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_phone-handset
+    second: {fileID: 2100000, guid: cfe1deae4ab72da48a904dc465c16934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_phone-lights
+    second: {fileID: 2100000, guid: 0598ac5772d8a2243905106015bd1e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_pillow
+    second: {fileID: 2100000, guid: f3430c2fde6028b4aa4aba852da1163e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_plant-succulent
+    second: {fileID: 2100000, guid: bfe29a275e512254287ea2b64ccdf336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_poster_1
+    second: {fileID: 2100000, guid: a6756840031ffaa46824fc64e5f7d70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_screen
+    second: {fileID: 2100000, guid: 2bde791cc58af774387cadd2db8c2e16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_sliding-door-number-1
+    second: {fileID: 2100000, guid: 1c97dec89c04c50408d3876d5380e536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_sliding-door-number-2
+    second: {fileID: 2100000, guid: a476b7ac7dffa9142893a39b6cf28f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_snakeplant
+    second: {fileID: 2100000, guid: 242ccbe6997b19d46a280885474fb18b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_sofa
+    second: {fileID: 2100000, guid: e68578428945b0b4c97f2a784142b0d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_standing-table
+    second: {fileID: 2100000, guid: 0948181effd972a42911dd8b9bdba04c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_vase
+    second: {fileID: 2100000, guid: a4e80657a4d440441b6afac93da60d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_wait-table
+    second: {fileID: 2100000, guid: 68f6acdbe1524434dbadbc3fc1c4e188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_wall
+    second: {fileID: 2100000, guid: c46e6bd798fb0e14bb81e618745ed980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_waterdispenser
+    second: {fileID: 2100000, guid: 479479384a07d0047827b54e0d21758b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_waterdispenser-blue
+    second: {fileID: 2100000, guid: 03d6bea841c9e484ea5b2ee0efb6ac78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_waterdispenser-grey
+    second: {fileID: 2100000, guid: bb4f22e5e40fe3849b36fe1457c797ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_waterdispenser-lever
+    second: {fileID: 2100000, guid: 0083eadd9225d774eb507fefc8be224a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_waterdispenser-orange
+    second: {fileID: 2100000, guid: 6246861584469824b84bf896e29a1924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mi_wood-furniture_02
+    second: {fileID: 2100000, guid: 7f0e5600baeead6488e631e419c61120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_bed
+    second: {fileID: 2100000, guid: d15a0706c4414714b8543bb94764b100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_bed-fabric
+    second: {fileID: 2100000, guid: 76ab2a13bc889e1458363fc00269a7f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_bed-fabric.002
+    second: {fileID: 2100000, guid: 83f9755459a88b146898e67fc8d414a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_book-pages
+    second: {fileID: 2100000, guid: 4fc35a96c99dc4d48beb940a6d179eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_book_01
+    second: {fileID: 2100000, guid: 8d50f550ef043d544817c4e40200d2ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_book_02
+    second: {fileID: 2100000, guid: fcfe0766166e447439da0b52c4628736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_book_03
+    second: {fileID: 2100000, guid: d99eadda565fad2428ea8074494bb391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_book_04
+    second: {fileID: 2100000, guid: 82fd81514213d744190d94b5cdc4aa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_brushed-metal
+    second: {fileID: 2100000, guid: 78d4dcd9919a528438fe9e4157b8440b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_cabel
+    second: {fileID: 2100000, guid: ad9de43b1ea6c8147a8c7699c7fe6dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_ceiling-lights-led
+    second: {fileID: 2100000, guid: daae55cdf40149348abbbcf17a054d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_ceiling-lights-metall
+    second: {fileID: 2100000, guid: 57f6a44c9b273c94eae7ef6d10348272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_ceiling_01
+    second: {fileID: 2100000, guid: 5bcdc5f052b3f724a840e4e4db37b0e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_ceilling-lamp-frame
+    second: {fileID: 2100000, guid: a103baf4a1cbd7146a2fc3f9f7f38502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_ceilling-lamp-led
+    second: {fileID: 2100000, guid: 93ee01608f210a74596c6773babce82b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_clipboard
+    second: {fileID: 2100000, guid: 29e7c67d03ef7c5468f5ab4f93cdec14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_clipboard-metall
+    second: {fileID: 2100000, guid: b6c186c98d9b5864d87d82edfc3de78d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_clipboard-paper
+    second: {fileID: 2100000, guid: bd286d2583edf084dab7df41e96444c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_clipboard-plastic
+    second: {fileID: 2100000, guid: 05ea4951bc066f845b7558cc7d08fc99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_collidertransparent
+    second: {fileID: 2100000, guid: 4424556d1229f66489e5741e23d80680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_dark_areas
+    second: {fileID: 2100000, guid: f7fa7e945eb91ee429e7977cb4e7b18e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_door number
+    second: {fileID: 2100000, guid: 65e31d017d3554241bdf38eea69f3add, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_door-frame
+    second: {fileID: 2100000, guid: 8c6345f98863519478f6543f5e28a205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_door-mirror
+    second: {fileID: 2100000, guid: 43ac5b234ef6b86498305baece8d8717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_door-plastic
+    second: {fileID: 2100000, guid: fa6ccf7d0b4fb60469efe0e2f96f3a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_faucet-metall
+    second: {fileID: 2100000, guid: 3921fe2d5b859d340883fe8a33a82eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_flatsceen-frame-black
+    second: {fileID: 2100000, guid: 52887e47b68d71e4d8c1b1496174ea14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_flatsceen-frame-white
+    second: {fileID: 2100000, guid: 9a310ffdb94289047b9f04044fdcb8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_flooring-wood
+    second: {fileID: 2100000, guid: f12de410057193c41a9fe2ee743e4835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_flooring-wood_01
+    second: {fileID: 2100000, guid: f12de410057193c41a9fe2ee743e4835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_glass-clear
+    second: {fileID: 2100000, guid: 17a93a540e9c1994aaaf01a014f99d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_glass-frosted
+    second: {fileID: 2100000, guid: 3488d87c7ef111e4d99fe7235852d25b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_glass-room-divider
+    second: {fileID: 2100000, guid: 977e966bbe365cb469c3a1ebad1c60e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_gold-metal-bolts
+    second: {fileID: 2100000, guid: 4794978d05247004abbfe5add3aac624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_green-button
+    second: {fileID: 2100000, guid: 8e3156345909c3541963fca221d70fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_grey-plastic
+    second: {fileID: 2100000, guid: 89d15874f74c5194f91e0a47ab31ed75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_heater-white
+    second: {fileID: 2100000, guid: ba3aa64c457d82149a85770ce0caa558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_light-plastic
+    second: {fileID: 2100000, guid: 8316b1a32b7b6c84c901c77f0931a983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_metal-solid-paint-white
+    second: {fileID: 2100000, guid: 840977e5082e02c48a7d38ffc70f0845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_metall
+    second: {fileID: 2100000, guid: 0c1a8c106aa8d7144879fcf04062980b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_note-box
+    second: {fileID: 2100000, guid: 84825aacce980c746ab914363c1f6d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_outlet-grounding
+    second: {fileID: 2100000, guid: c96ebedecfcf65e4d95f5304340f0ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_outlet-plastic
+    second: {fileID: 2100000, guid: 5a75b3ee91658bd4a8f46e0abf2b6b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_painting
+    second: {fileID: 2100000, guid: 625e32018afe38e4e8cecb52a96ac1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_paintings
+    second: {fileID: 2100000, guid: f6caf05c813daff41b6f38da7c3b670d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_plant-pot
+    second: {fileID: 2100000, guid: 99c902b90246908479e6c712d6c68f0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_plastic
+    second: {fileID: 2100000, guid: e32fff1cdca07a8428e16dbc954fae42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_plastic_colorful
+    second: {fileID: 2100000, guid: 3a886ea59bf181c4c9b2fa6c73a4244a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_red-button
+    second: {fileID: 2100000, guid: 9a5851c3f803b5644841732e8dc047dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_screw
+    second: {fileID: 2100000, guid: 03ee0a99af03bd44ba257b4282564bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_shiny-metal
+    second: {fileID: 2100000, guid: 71d0e79db2b9f2b46beb1392d23fe07b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_sink-porcelain
+    second: {fileID: 2100000, guid: f5bb3125bdbda184dbffea69a7721dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_trashcan
+    second: {fileID: 2100000, guid: cab45f23710aecc4a9647019da6b9de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_white-metal
+    second: {fileID: 2100000, guid: 92e588dc511c1b8459b92722c7067ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_window-frame
+    second: {fileID: 2100000, guid: be24560905f780649a44e71dbf383ce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_wood-furniture_01
+    second: {fileID: 2100000, guid: 8965831846635604aaf920872aa2bd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_wood-furniture_02
+    second: {fileID: 2100000, guid: 8965831846635604aaf920872aa2bd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_wood_furniture_03
+    second: {fileID: 2100000, guid: 8965831846635604aaf920872aa2bd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_wood_furniture_04
+    second: {fileID: 2100000, guid: 8965831846635604aaf920872aa2bd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ms_yellow-parts
+    second: {fileID: 2100000, guid: edd96a354e28a1e499ca76a7e298000f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
